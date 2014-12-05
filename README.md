@@ -6,11 +6,10 @@ If you would like to use Tinytest with your app but without Velocity, see my
 [numtel:tinytest-in-app](https://github.com/numtel/tinytest-in-app) package.
 
 ## Installation
-The `tinytest` package is included automatically.
 
-```bash
-$ meteor add numtel:velocity-tinytest
-```
+**This package has been removed from Atmosphere due to breaking changes in Velocity's API.**
+
+The `tinytest` package is included automatically.
 
 ## Quick start
 
